@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c0ef450c-ea8f-40b7-bf9c-2dfcef2e1ae1/deploy-status)](https://app.netlify.com/sites/angular-todo-app-by-aayush/deploys)
+
 # TodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
